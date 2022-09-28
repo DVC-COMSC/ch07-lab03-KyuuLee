@@ -14,7 +14,7 @@ print (avg)
 
 for i in range(len(numbers)):
 	if numbers[i] > avg:
-		print ( numbers[i], end=' ')
+		print ( 'test', numbers[i], end=' ')
 	# print (numbers[i], end=' ') if numbers[i] > avg else print (end='')
 
 print ()
