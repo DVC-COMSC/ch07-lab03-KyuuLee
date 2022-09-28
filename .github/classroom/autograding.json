@@ -15,7 +15,7 @@
       "setup": "",
       "run": "python main.py",
       "input": "10\r\n15\r\n20\r\n25\r\n30",
-      "output": "[\\w,\" \"]*25[\\w,\" \"]*30[\\w, \" \"]*",
+      "output": "25[\\w,\" \"]*30[\\w, \" \"]*",
       "comparison": "regex",
       "timeout": 10,
       "points": 1
